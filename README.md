@@ -1,6 +1,6 @@
 # instagram_clone
 
-A new Flutter project.
+This project is a Flutter clone of Instagram UI with firebase used for backend services and GetX for state management.This project implements features such as authentication, add post, real time follow and unfollow features, real time post likes and comment features among other things
 
 ## Getting Started
 
